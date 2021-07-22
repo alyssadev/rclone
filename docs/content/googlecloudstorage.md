@@ -176,7 +176,7 @@ actively logged-in users, for example build machines.
 To get credentials for Google Cloud Platform
 [IAM Service Accounts](https://cloud.google.com/iam/docs/service-accounts),
 please head to the
-[Service Account](https://console.cloud.google.com/permissions/serviceaccounts)
+[Service Account](https://console.cloud.google.com/iam-admin/serviceaccounts)
 section of the Google Developer Console. Service Accounts behave just
 like normal `User` permissions in
 [Google Cloud Storage ACLs](https://cloud.google.com/storage/docs/access-control),
